@@ -1,5 +1,5 @@
 # Speeduino-February2020-
-Speeduino-February2020 
+EverythingFuelInjection.msi is Speeduino-February2020 
 Easy Firmware install for Speeduino firmware for all my current boards with ATMEGA2560.
 Not supported for Teensy
 Windows only
